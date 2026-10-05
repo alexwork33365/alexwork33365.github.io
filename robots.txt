@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /card
+Disallow: /en/card
+
+Sitemap: https://alexwork33365.github.io/sitemap.xml
